@@ -1,12 +1,14 @@
 #Scala Reference
 ##For beginners:
 ###Books
-- Scala for impatient: Scala入门教程，帮你短时间迅速掌握Scala语法
+- Scala for the Impatient: Scala入门教程，帮你短时间迅速掌握Scala语法
 http://fileadmin.cs.lth.se/scala/scala-impatient.pdf
 - Atomic Scala: 很不错的入门教程，适合有Java基础，想入门Scala但是不知道从哪里开始的同学
 http://www.atomicscala.com/p
 - Programming in Scala: 作者的Scala教程，书写的不错，不过就是有点厚，读下来得花个把月
 http://www.amazon.com/Programming-Scala-Comprehensive-Step-Step/dp/0981531644
+- Scala in Action: 那本书也不错,就是讲的有点泛，Scala fundamentals，db， akka，都会涉及到,唯一缺点就是书有点老了
+https://www.manning.com/books/scala-in-action
 ###Website: 
 - Twitter Scala School: Twitter官方提供的Scala教程
 http://twitter.github.io/scala_school/
